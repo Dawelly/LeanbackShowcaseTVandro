@@ -1,0 +1,157 @@
+[
+  {
+    "title": "Matic Honda PCX",
+    "cards": [
+      {
+        "type": "GRID_SQUARE",
+        "title": "Honda PCX red",
+        "description": "4-Langkah, 4-Valve, eSP+ | PGM-FI",
+        "localImageResource": "pcxred"
+      },
+      {
+        "type": "GRID_SQUARE",
+        "title": "Honda PCX white",
+        "description": "4-Langkah, 4-Valve, eSP+ | PGM-FI",
+        "localImageResource": "pcxwhite"
+      },
+      {
+        "type": "GRID_SQUARE",
+        "title": "Honda PCX brown",
+        "description": "4-Langkah, 4-Valve, eSP+ | PGM-FI",
+        "localImageResource": "pcxbrown"
+      },
+      {
+        "type": "GRID_SQUARE",
+        "title": "Honda PCX navy",
+        "description": "4-Langkah, 4-Valve, eSP+ | PGM-FI",
+        "localImageResource": "pcxnavy"
+      },
+      {
+        "type": "GRID_SQUARE",
+        "title": "Marseille sea food tour",
+        "description": "9,089 views   3 years ago   by ADELAIDE",
+        "localImageResource": "coffee_and_tea_05"
+      },
+      {
+        "type": "GRID_SQUARE",
+        "title": "Marseille sea food tour",
+        "description": "9,089 views   3 years ago   by ADELAIDE",
+        "localImageResource": "coffee_and_tea_06"
+      },
+      {
+        "type": "GRID_SQUARE",
+        "title": "Marseille sea food tour",
+        "description": "9,089 views   3 years ago   by ADELAIDE",
+        "localImageResource": "coffee_and_tea_07"
+      },
+      {
+        "type": "GRID_SQUARE",
+        "title": "Marseille sea food tour",
+        "description": "9,089 views   3 years ago   by ADELAIDE",
+        "localImageResource": "coffee_and_tea_08"
+      }
+    ]
+  },
+
+  {
+    "title": "Matic Honda Scoopy",
+    "cards": [
+      {
+        "type": "GRID_SQUARE",
+        "title": "Honda Scoopy Prestige Green",
+        "description": "4-Langkah | SOHC | Pendingin Udara, eSP",
+        "localImageResource": "scoppygreen"
+      },
+      {
+        "type": "GRID_SQUARE",
+        "title": "Honda Scoopy Prestige white",
+        "description": "4-Langkah | SOHC | Pendingin Udara, eSP",
+        "localImageResource": "swhite"
+      },
+      {
+        "type": "GRID_SQUARE",
+        "title": "Honda Scoopy Stylish Cream",
+        "description": "4-Langkah | SOHC | Pendingin Udara, eSP",
+        "localImageResource": "sbrown"
+      },
+      {
+        "type": "GRID_SQUARE",
+        "title": "Honda Scoopy navy",
+        "description": "4-Langkah | SOHC | Pendingin Udara, eSP",
+        "localImageResource": "snavy"
+      },
+      {
+        "type": "GRID_SQUARE",
+        "title": "Honda Scoopy Deluxe brown",
+        "description": "4-Langkah | SOHC | Pendingin Udara, eSP",
+        "localImageResource": "sbrowndua"
+      }
+    ]
+  },
+
+
+  {
+    "title": "Matic Honda Beat",
+    "cards": [
+      {
+        "type": "GRID_SQUARE",
+        "title": "Honda Beat Deluxe Blue",
+        "description": "4–Langkah | SOHC | eSP",
+        "localImageResource": "beatblue"
+      },
+      {
+        "type": "GRID_SQUARE",
+        "title": "Honda Beat Deluxe Pink",
+        "description": "4–Langkah | SOHC | eSP",
+        "localImageResource": "beatblackpink"
+      },
+      {
+        "type": "GRID_SQUARE",
+        "title": "Honda Beat brown",
+        "description": "4–Langkah | SOHC | eSP",
+        "localImageResource": "beatbrown"
+      },
+      {
+        "type": "GRID_SQUARE",
+        "title": "Honda Beat Deluxe Black",
+        "description": "4–Langkah | SOHC | eSP",
+        "localImageResource": "beatblack"
+      },
+      {
+        "type": "GRID_SQUARE",
+        "title": "Honda Beat Street Deluxe Black",
+        "description": "4–Langkah | SOHC | eSP",
+        "localImageResource": "beatstreetblack"
+      }
+    ]
+  },
+
+  {
+    "title": "Rekomendasi Motor",
+    "cards": [
+      {
+        "type": "SIDE_INFO",
+        "title": "Honda Beat",
+        "description": "Desain yang sporty",
+        "extraText": "Masyarakat Indonesia suka desain sepeda motor yang sporty dan tajam, terutama bagi kalangan anak muda. Inilah satu kelebihan yang dimiliki oleh Honda Beat. Desain yang diturunkan dari Honda Vario membuat Honda Beat menjadi daya tarik bagi semua kalangan masyarakat. Bobot yang ringan.",
+        "localImageResource": "beatbrownrec"
+      },
+      {
+        "type": "SIDE_INFO",
+        "title": "Honda PCX",
+        "description": "Dinamis dan Elegan",
+        "extraText": "Tampilan baru dengan desain mewah dan dinamis, memberikan ekspresi berkelas tinggi dan semakin mendukung gaya pengendaranya. Ditunjang fitur Honda Selectable Torque Control (HSTC) pada tipe ABS dan e:HEV, Honda PCX 2021 mampu memberikan rasa aman bagi pengendara saat melintasi jalan yang licin.",
+        "localImageResource": "recompcx"
+      },
+      {
+        "type": "SIDE_INFO",
+        "title": "Honda Scoopy",
+        "description": "Berteknologi eSP (enhanced smart power)",
+        "extraText": "Teknologi itu diklaim memberi pembakaran lebih sempurna dan mengurangi gesekan antarkomponen depot daya. Outputnya, tenaga 9,1 PS pada 7.500 rpm dan torsi puncak 9,4 Nm pada 6.000 rpm. Tambahkan dengan fitur idling stop system (ISS) yang mematikan mesin sejenak saat kendaraan berhenti lebih dari tiga detik. Kombinasi teknis itu alasan Scoopy bisa kasih konsumsi irit.",
+        "localImageResource": "recomscoopy"
+      }
+
+    ]
+  }
+
+]

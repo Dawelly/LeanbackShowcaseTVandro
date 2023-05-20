@@ -1,0 +1,40 @@
+[
+  {
+    "title": "",
+    "cards": [
+      {
+        "id": 0,
+        "type": "DEFAULT",
+        "title": "Motor Bebek Honda",
+        "localImageResource": "bebekcov",
+        "footerColor": "#FFCF1103",
+        "description": "Motor Bebek"
+      },
+      {
+        "id": 1,
+        "type": "DEFAULT",
+        "title": "Motor Matic Honda",
+        "localImageResource": "maticov",
+        "Color": "#b93221",
+        "description": "Motor Matic"
+      },
+      {
+        "id": 2,
+        "type": "DEFAULT",
+        "title": "Motor Sport Honda",
+        "localImageResource": "covspt",
+        "background": "cbrrr",
+        "description": "Motor Sport"
+      },
+
+      {
+        "id": 4,
+        "type": "DEFAULT",
+        "title": "CBR1000RR-R Fireblade SP Edisi",
+        "localImageResource": "se",
+        "description": "SP 30th Anniversary."
+      }
+
+    ]
+  }
+]

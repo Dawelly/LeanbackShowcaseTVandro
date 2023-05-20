@@ -1,0 +1,120 @@
+[
+  {
+    "title": "CBR",
+    "cards": [
+      {
+        "type": "GRID_SQUARE",
+        "title": "CBR 150 Red",
+        "description": "4-Langkah | SOHC | Silinder Tunggal",
+        "background": "cbrrd",
+        "localImageResource": "cbrrd"
+      },
+      {
+        "type": "GRID_SQUARE",
+        "title": "CBR 150 R Full black",
+        "description": "4-Langkah, DOHC, 4 Katup, 149,16 cc",
+        "localImageResource": "cbrbk"
+      },
+      {
+        "type": "GRID_SQUARE",
+        "title": "CBR 150 Repsol",
+        "description": "4-Langkah, DOHC, 4 Katup, 149,16 cc",
+        "localImageResource": "cbrrepsol"
+      },
+      {
+        "type": "GRID_SQUARE",
+        "title": "CBR 250 RR",
+        "description": "4-Langkah, DOHC, 4 Katup, 149,16 cc",
+        "localImageResource": "cbrrr"
+      },
+      {
+        "type": "GRID_SQUARE",
+        "title": "CBR 250 Black",
+        "description": "9,089 views   3 years ago   by ADELAIDE",
+        "localImageResource": "cbrblackbig"
+      }
+    ]
+  },
+
+  {
+    "title": "CRF",
+    "cards": [
+      {
+        "type": "GRID_SQUARE",
+        "title": "CRF 150 Black",
+        "description": "9,089 views   3 years ago   by ADELAIDE",
+        "localImageResource": "crfblack"
+      },
+      {
+        "type": "GRID_SQUARE",
+        "title": "CRF 150 White Black",
+        "description": " mesin 109.17 cc dengan transmisi 4-Speed",
+        "localImageResource": "crfwb"
+      },
+      {
+        "type": "GRID_SQUARE",
+        "title": "CRF 250 Rally Black",
+        "description": "9,089 views   3 years ago   by ADELAIDE",
+        "localImageResource": "crfrallybk"
+      },
+      {
+        "type": "GRID_SQUARE",
+        "title": "CRF 250 Red",
+        "description": "9,089 views   3 years ago   by ADELAIDE",
+        "localImageResource": "crfrally"
+      }
+    ]
+  },
+
+  {
+    "title": "CB VERZA",
+    "cards": [
+      {
+        "type": "GRID_SQUARE",
+        "title": "CB VERZA 150 Bold Red ",
+        "description": "9,089 views   3 years ago   by ADELAIDE",
+        "localImageResource": "cbverzaboldred"
+      },
+      {
+        "type": "GRID_SQUARE",
+        "title": "CB VERZA 150 Black",
+        "description": "9,089 views   3 years ago   by ADELAIDE",
+        "localImageResource": "cbverzabk"
+      },
+      {
+        "type": "GRID_SQUARE",
+        "title": "CB VERZA 150",
+        "description": "9,089 views   3 years ago   by ADELAIDE",
+        "localImageResource": "verzaabu"
+      }
+
+    ]
+  },
+  {
+    "title": "Rekomendasi Motor",
+    "cards": [
+      {
+        "type": "SIDE_INFO",
+        "title": "CBR 150 ",
+        "description": "Style yang Keren dan Futuristik",
+        "extraText": "Desain motor ini dirancang dengan nuansa ‘racing dan sporty” yang sangat kental. Dimulai dari desain headlamp yang dibuat menyempit atau V-shape pada bagian  depan dengan teknologi LED dan tampilan yang cukup tajam juga dihadirkan di bagian front crawl dan body belakang, membuat motor ini terkesan agresif.",
+        "localImageResource": "cbrrd"
+      },
+      {
+        "type": "SIDE_INFO",
+        "title": "CRF 150",
+        "description": "Performa",
+        "extraText": "Bermodal kubikasi yang cukup besar; 149,15 cc, Honda CRF150L bisa memompa daya dan torsi lebih optimal dibanding sang rival, KLX150. Temuan kami, performa tenaga CRF mampu menyentuh 12,75 dk, dengan torsi 12,43 Nm. Bandingkan dengan KLX yang berada di level 11,5 dk dan torsi 11,3 Nm.",
+        "localImageResource": "crfblack"
+      },
+      {
+        "type": "SIDE_INFO",
+        "title": "CB Verza",
+        "description": "Lebih Kuat",
+        "extraText": "Honda Verza dilengkapi dengan Twin Heavy Duty Suspension yang lebih kuat dibandingkan motor sekelasnya apalagi motor dengan suspensi Monoshock. Sehingga jika anda membawa bawaan yang cukup berat tidak perlu khawatir dengan kekuatan suspensi belakangnya yang kuat.",
+        "localImageResource": "cbverzaboldred"
+      }
+    ]
+  }
+
+]

@@ -1,0 +1,126 @@
+[
+  {
+    "title": "Supra Honda",
+  "cards": [
+    {
+      "type": "GRID_SQUARE",
+      "title": "Supra X 125 Golden Matte Black",
+      "description": "4-Langkah | SOHC | Silinder Tunggal",
+      "localImageResource": "supraxbk"
+    },
+    {
+      "type": "GRID_SQUARE",
+      "title":"Supra GTR Red Black",
+      "description":"4-Langkah, DOHC, 4 Katup, 149,16 cc",
+      "localImageResource": "gtrredblack"
+    },
+    {
+      "type": "GRID_SQUARE",
+      "title": "Supra GTR Red White",
+      "description": "-Langkah, DOHC, 4 Katup, 149,16 cc",
+      "localImageResource": "gtrredwhite"
+    },
+    {
+      "type": "GRID_SQUARE",
+      "title": "Supra GTR Black Orange",
+      "description": "4-Langkah, DOHC, 4 Katup, 149,16 cc",
+      "localImageResource": "gtrblorg"
+    },
+    {
+      "type": "GRID_SQUARE",
+      "title": "Supra X",
+      "description": "4-Langkah | SOHC | Silinder Tunggal",
+      "localImageResource": "supra"
+    }
+  ]
+  },
+
+  {
+    "title": "Revo Fit",
+    "cards": [
+      {
+        "type": "GRID_SQUARE",
+        "title": "Revo fit",
+        "description": "110 CC | PGMFI | Berpendingin udara",
+        "localImageResource": "revofit"
+      },
+      {
+        "type": "GRID_SQUARE",
+        "title": "Revo X 2022",
+        "description": "109.17 cc | Transmisi 4-Speed",
+        "localImageResource": "revox"
+      },
+      {
+        "type": "GRID_SQUARE",
+        "title": "Absolute Revo",
+        "description": "4-langkah | SOHC | 1 Silinder",
+        "localImageResource": "absoluterev"
+      },
+      {
+        "type": "GRID_SQUARE",
+        "title": "Revo SW",
+        "description": "110 CC | PGMFI | Berpendingin udara",
+        "localImageResource": "revosw"
+      }
+    ]
+  },
+
+
+  {
+    "title": "Blade Honda",
+    "cards": [
+      {
+        "type": "GRID_SQUARE",
+        "title": "Honda Blade SE Repsol ",
+        "description": "Injeksi (PGM-FI/Programmed Fuel Injection)",
+        "localImageResource": "hblade"
+      },
+      {
+        "type": "GRID_SQUARE",
+        "title": "Honda Blade White",
+        "description": "Injeksi (PGM-FI/Programmed Fuel Injection)",
+        "localImageResource": "bladewhite"
+      },
+      {
+        "type": "GRID_SQUARE",
+        "title": "Honda Blade Red Black",
+        "description": "Injeksi (PGM-FI/Programmed Fuel Injection)",
+        "localImageResource": "bladeredblack"
+      },
+      {
+        "type": "GRID_SQUARE",
+        "title": "Honda Blade",
+        "description": "4 tak Silinder tunggal | 109 CC | SOHC",
+        "localImageResource": "blades"
+      }
+    ]
+  },
+
+  {
+    "title": "Rekomendasi Motor",
+    "cards": [
+      {
+        "type": "SIDE_INFO",
+        "title": "Supra X 125 ",
+        "description": "Desain yang sporty",
+        "extraText": "Mengandalkan mesin 125 cc 4-tak SOHC yang kini dilengkapi dengan injeksi PGM-FI, konsumsi bahan bakarnya diklaim lebih irit hingga 23 persen atau mencapai 61,8 km/liter dengan metode pengukuran ECE R40.",
+        "localImageResource": "supraxbl"
+      },
+      {
+        "type": "SIDE_INFO",
+        "title": "Supra GTR 150",
+        "description": "Mesin lebih irit bahan bakar",
+        "extraText": "Hadir dengan tipe mesin DOHC – 4 katup sehingga mampu menghasilkan tenaga yang lebih tangguh.\nSistem suplai bahan bakar pada Honda terbaru ini menggunakan sistem PGM – FI (Programmed – Fuel Injection) sehingga konsumsi bahan bakar menjadi lebih irit, tapi tetap bertenaga. Teknologi ini sudah terbukti tangguh karena dengan adanya PGM – FI, konsumsi bahan bakar mampu ditekan hingga 20%. Sementara itu, tangki bahan bakar GTR-nya berkapasitas 4,5 liter.",
+        "localImageResource": "gtrblorg"
+      },
+      {
+        "type": "SIDE_INFO",
+        "title": "Honda Blade 125",
+        "description": "Sporty, Bertenaga dan Irit",
+        "extraText": "THonda Blade memiliki body yang sporty, ditambah dengan grafis ala MotoGP yang mengambil inspirasi dari tampilan terbaru Honda RC213V yang digunakan tim Repsol Honda saat berlaga di MotoGP dengan dukungan penuh Satu HATI.",
+        "localImageResource": "bladerec"
+      }
+    ]
+  }
+
+]

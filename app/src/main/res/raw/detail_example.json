@@ -1,0 +1,103 @@
+{
+  "title": "CBR1000RR-R Fireblade",
+  "text": "PT Astra Honda Motor (AHM) menghadirkan racikan baru CBR1000RR-R Fireblade SP untuk penggemar big bike di Tanah Air. Tidak tanggung, motor supersport berperforma tinggi ini menyapa dengan edisi khusus merayakan 30 tahun kehadiran Fireblade, atau disebut CBR1000RR-R Fireblade SP 30th Anniversary.",
+  "localImageResource": "se",
+  "characters": [
+    {
+      "type": "CHARACTER",
+      "title": "Supra GTR",
+      "localImageResource": "face_01"
+    },
+    {
+      "type": "CHARACTER",
+      "title": "PCX",
+      "localImageResource": "face_08"
+    },
+    {
+      "type": "CHARACTER",
+      "title": "Beat",
+      "localImageResource": "face_02"
+    },
+    {
+      "type": "CHARACTER",
+      "title": "CBR 150",
+      "localImageResource": "face_03"
+    },
+    {
+      "type": "CHARACTER",
+      "title": "Honda Blade",
+      "localImageResource": "face_04"
+    },
+    {
+      "type": "CHARACTER",
+      "title": "Revo Absolute",
+      "localImageResource": "face_05"
+    },
+    {
+      "type": "CHARACTER",
+      "title": "CbVerza",
+      "localImageResource": "face_06"
+    },
+    {
+      "type": "CHARACTER",
+      "title": "CRF 150",
+      "localImageResource": "face_07"
+    }
+  ],
+  "recommended": [
+    {
+      "type": "MOVIE",
+      "title": "Supra GTR",
+      "description": "Bebek Honda",
+      "localImageResource": "card_image_movie_01"
+    },
+    {
+      "type": "MOVIE",
+      "title": "PCX",
+      "description": "Matic Honda",
+      "localImageResource": "card_image_movie_02"
+    },
+    {
+      "type": "MOVIE",
+      "title": "CRF 150",
+      "description": "Sport Honda",
+      "localImageResource": "card_image_movie_03"
+    },
+    {
+      "type": "MOVIE",
+      "title": "Beat",
+      "description": "Matic Honda",
+      "localImageResource": "card_image_movie_04"
+    },
+    {
+      "type": "MOVIE",
+      "title": "CBR 150",
+      "description": "Sport Honda",
+      "localImageResource": "card_image_movie_05"
+    },
+    {
+      "type": "MOVIE",
+      "title": "CBR 250",
+      "description": "Sport Honda",
+      "localImageResource": "card_image_movie_06"
+    },
+    {
+      "type": "MOVIE",
+      "title": "Honda Blade",
+      "description": "Bebek Honda",
+      "localImageResource": "card_image_movie_07"
+    },
+    {
+      "type": "MOVIE",
+      "title": "Scoopy",
+      "description": "Matic Honda",
+      "localImageResource": "card_image_movie_08"
+    },
+    {
+      "type": "MOVIE",
+      "title": "Beat Street",
+      "description": "Matic Honda",
+      "localImageResource": "card_image_movie_09"
+    }
+  ]
+}
